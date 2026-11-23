@@ -1,5 +1,11 @@
-## Ola Davi
-Meu nome é Davi Moraes Bogutchi,tenho 15 anos,estou no primeiro do ensino medio e fazendo o curso tecnico de informatica.
-Nesse curso aprendemos materias como Versionamento,UX e UI,Programação e muito mais.
-Gosto de conversar com amigos,jogar e sair de casa,eu ainda nao tenho um objetivo exato,mas quero aposentar minha familia e ser muito rico.
-Prezo muito o aprendizado e a conversar,sempre tentando ajudar os proximos,e pensando nas coisas boas que ocorre na minha vida 
+# Davi
+
+Oi, eu sou o Davi e faço um curso de informática. Gosto de aprender sobre tecnologia e quero usar o que aprendo no curso pra criar meus próprios projetos.
+
+No curso, quero aprender a usar:
+
+- Git e GitHub pra guardar as versões dos meus projetos.
+- JavaScript pra deixar minhas páginas interativas.
+- Figma pra desenhar telas de sites e aplicativos.
+
+**Quero colocar em prática o que aprendo no curso.**
